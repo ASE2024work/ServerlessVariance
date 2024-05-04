@@ -10,7 +10,7 @@ Welcome to visit the homepage of our paper entitled "Exploring the Overlooked Pe
   - conference
   - publication year
   - paper title 
-  - the labeled information **regarding RQ1**
+  - the labeled information regarding **RQ1 (Current Literature)**
     - Category 1: Mean or median values
     - Category 2: Confidence (e.g., confidence intervals) or variability (e.g., standard deviation, coefficient of variance, or percentiles)
     - Category 3: The number of times that an experiment was repeated
@@ -42,6 +42,8 @@ Welcome to visit the homepage of our paper entitled "Exploring the Overlooked Pe
 
 
 * We make raw data of cold-start/warm-start performance publicly available. Please refer to the file "**Performance data of serverless functions.xlsx**". We use the end-to-end response latencies of each serverless function with 50 repetitions.
+  - Performance data is used to **RQ2 (Variance Measurement)** and **RQ3 (Reliability and Repetitions)**
+
 
 
 
