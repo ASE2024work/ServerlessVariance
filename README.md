@@ -47,8 +47,10 @@ Welcome to visit the homepage of our paper entitled "Exploring the Overlooked Pe
 
 
 
-## Run Scripts
+## Scripts
 
-* Run scripts used in our study are in the directory "**RunScripts**", including the invoke scripts for AWS Lambda and Google Cloud Functions.
+* Run scripts used in our study are in the directory "**Scripts**", including the invoke scripts for AWS Lambda and Google Cloud Functions, as well as scripts for the reliability analysis of RQ3
   - "**invokeFunctionScript-run1.py**" and "**invokeFunctionScript-run2.py**" for AWS Lambda
   - "**invokeGoogleFunction.py**" for Google Cloud Functions
+  - "**dataProRQ3.ipynb**" for the reliability analysis of **RQ3 (Reliability and Repetitions)**
+    - Calculation scripts for Figure 10 and Figure 12
