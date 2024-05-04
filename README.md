@@ -27,7 +27,7 @@ Welcome to visit the homepage of our paper entitled "Exploring the Overlooked Pe
     - memory allocation size
     - original code link
     - functionality type
-    - corresponding research papers
+    - involved research papers
 
 
 ## Code for Serverless Functions
