@@ -34,8 +34,15 @@ Welcome to visit the homepage of our paper entitled "Exploring the Overlooked Pe
 
 * In the directory "**ServerlessFunctionCode**", there are deployment packages corresponding to Func1 to Func72. 
   - the code for each serverless function is packaged in a separate folder
-  - the short input payload for some serverless functions is recorded in the file "**Executed serverless functions.xlsx**"
+  - the short input payload for some serverless functions is recorded in the file "**Serverless functions.xlsx**"
   - the long input payload for some serverless functions is stored in the directory "**input**", including the payloads for func20, func29, func54, func56, func57, and func60
+
+
+## Performance Data of Serverless Functions
+
+
+* We make raw data of cold-start/warm-start performance publicly available. Please refer to the file "**Performance data of serverless functions.xlsx**". We use the end-to-end response latencies of each serverless function with 50 repetitions.
+
 
 
 ## Scripts
