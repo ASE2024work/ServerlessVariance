@@ -45,8 +45,8 @@ Welcome to visit the homepage of our paper entitled "Exploring the Overlooked Pe
 
 
 
-## Scripts
+## Run Scripts
 
-* **Invocation scripts**: Invocation scripts used in our study are in the directory "**Invocation scripts**", including the invocation code of AWS Lambda and Google Cloud Functions.
+* Run scripts used in our study are in the directory "**RunScripts**", including the invoke scripts for AWS Lambda and Google Cloud Functions.
   - "**invokeFunctionScript-run1.py**" and "**invokeFunctionScript-run2.py**" for AWS Lambda
   - "**invokeGoogleFunction.py**" for Google Cloud Functions
