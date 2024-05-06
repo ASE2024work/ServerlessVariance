@@ -53,5 +53,5 @@ Welcome to visit the homepage of our paper entitled "Exploring the Overlooked Pe
   - "**invokeFunctionScript-run1.py**" and "**invokeFunctionScript-run2.py**" for AWS Lambda
   - "**invokeGoogleFunction.py**" for Google Cloud Functions
   - "**dataProRQ3.ipynb**" for the reliability analysis of **RQ3 (Reliability and Repetitions)**
-    - Calculation scripts for Figure 10 and Figure 12
+    - Calculation scripts for Figure 10 to Figure 12
     - Used performance data examples can see the file "**ExampleData.xls**"
