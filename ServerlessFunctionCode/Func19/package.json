@@ -1,8 +1,0 @@
-{
-    "name": "auth",
-    "description": "Serverless auth",
-    "main": "index.js",
-    "dependencies": {
-      "unirest": "latest"
-    }
-  }
