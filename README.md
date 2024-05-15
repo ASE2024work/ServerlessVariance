@@ -5,7 +5,7 @@ Welcome to visit the homepage of our paper entitled "Exploring the Overlooked Pe
 
 ## Research Papers
 
-* In the file "**Collected research papers and RQ1 results.xlsx**", there is detailed information about 99 research papers that we collected, including
+* In the file "**Collected research papers and RQ1 information.xlsx**", there is detailed information about 99 research papers that we collected, including
   - CSRankings category
   - conference
   - publication year
