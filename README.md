@@ -19,7 +19,7 @@ Welcome to visit the homepage of our paper entitled "Exploring the Overlooked Pe
 ## Serverless Functions
 
 * We have also curated and made publicly available a dataset about serverless functions for future performance testing and optimization of serverless computing.
-  - In the file "**Serverless functions.xlsx**", there is detailed information about 72 serverless functions, including
+  - In the file "**Collected serverless functions.xlsx**", there is detailed information about 72 serverless functions, including
     - input payload
     - executed serverless platform
     - programming language
@@ -34,14 +34,14 @@ Welcome to visit the homepage of our paper entitled "Exploring the Overlooked Pe
 
 * In the directory "**ServerlessFunctionCode**", there are deployment packages corresponding to Func1 to Func72. 
   - the code for each serverless function is packaged in a separate folder
-  - the short input payload for some serverless functions is recorded in the file "**Serverless functions.xlsx**"
+  - the short input payload for some serverless functions is recorded in the file "**Collected serverless functions.xlsx**"
   - the long input payload for some serverless functions is stored in the directory "**input**", including the payloads for func20, func29, func54, func56, func57, and func60
 
 
 ## Performance Data of Serverless Functions
 
 
-* We make raw data of cold-start/warm-start performance publicly available. Please refer to the file "**Performance data of serverless functions.xlsx**". We use the end-to-end response latencies of each serverless function with 50 repetitions.
+* We make raw data of cold-start/warm-start performance publicly available. Please refer to the file "**Performance data of collected serverless functions.xlsx**". We use the end-to-end response latencies of each serverless function with 50 repetitions.
   - Performance data is used to **RQ2 (Variance Measurement)** and **RQ3 (Reliability and Repetitions)**
 
 
@@ -50,8 +50,8 @@ Welcome to visit the homepage of our paper entitled "Exploring the Overlooked Pe
 ## Scripts
 
 * Run scripts used in our study are in the directory "**Scripts**", including the invoke scripts for AWS Lambda and Google Cloud Functions, as well as scripts for the reliability analysis of RQ3
-  - "**invokeFunctionScript-run1.py**" and "**invokeFunctionScript-run2.py**" for AWS Lambda
-  - "**invokeGoogleFunction.py**" for Google Cloud Functions
-  - "**dataProRQ3.ipynb**" for the reliability analysis of **RQ3 (Reliability and Repetitions)**
+  - "**invokeAWSScript_run1.py**" and "**invokeAWSScript_run2.py**" for AWS Lambda
+  - "**invokeGoogleScript.py**" for Google Cloud Functions
+  - "**dataProssingRQ3.ipynb**" for the reliability analysis of **RQ3 (Reliability and Repetitions)**
     - Calculation scripts for Figure 10 to Figure 12
-    - Used performance data examples can see the file "**ExampleData.xls**"
+    - Used performance data examples can see the file "**Example_data.xls**"
