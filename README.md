@@ -53,5 +53,5 @@ Welcome to visit the homepage of our paper. The homepage contains the collected 
   - "**invokeAWSScript_run1.py**" and "**invokeAWSScript_run2.py**" for AWS Lambda
   - "**invokeGoogleScript.py**" for Google Cloud Functions
   - "**dataProssingRQ3.ipynb**" for the reliability analysis of **RQ3 (Reliability and Repetitions)**
-    - Calculation scripts for Figure 10 to Figure 12
+    - Calculation scripts for Figure 10 to Figure 13
     - Used performance data examples can see the file "**Example_data.xls**"
